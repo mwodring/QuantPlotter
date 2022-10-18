@@ -1,6 +1,6 @@
 USAGE:
 
-You'll need RStudio to make this work! You can get it off the internet or an older version is available for you on Anaconda.
+You'll need RStudio to make this work according to the below instructions. You can get it off the internet or an older version is available for you on Anaconda. If you're familiar with R and reticulate, feel free to run it however you like.
 
 1) Download this repo and unzip to the desired location.
 2) Open up Main.r (notepad or your IDE) and change the following:
