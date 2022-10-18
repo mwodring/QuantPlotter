@@ -4,7 +4,7 @@ library(ggplot2)
 library(reticulate)
 
 setwd("U:\\PhD\\Spyder\\QuantPlotter2")
-filepath <- "U:\\PhD\\Experimental_data\\qPCR\\2984_TM_21"
+filepath <- "U:\\DIRECTORY"
 
 source_python("ConvertXLSX.py")
 csvnames <- convertAllFiles(filepath)
