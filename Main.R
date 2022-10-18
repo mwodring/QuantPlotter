@@ -3,8 +3,8 @@ library(tidyr)
 library(ggplot2)
 library(reticulate)
 
-setwd("U:\\PhD\\Spyder\\QuantPlotter2")
-filepath <- "U:\\DIRECTORY"
+setwd("U:\\SCRIPT_DIRECTORY")
+filepath <- "U:\\XLSX_DIRECTORY"
 
 source_python("ConvertXLSX.py")
 csvnames <- convertAllFiles(filepath)
